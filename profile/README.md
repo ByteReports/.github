@@ -12,24 +12,22 @@ Diante disso, este projeto propõe o desenvolvimento de um aplicativo desktop vo
 ## 🚀 Objetivos
 ## Objetivo Geral:
 	
-Um software para fazer diagnósticos e sugerir atualizações via Windows Update/ Gerenciador de dispositivos.
+Desenvolver um aplicativo desktop capaz de gerar relatórios sobre os componentes do computador
 
 ## Objetivos Específicos
 
-Proporcionar aos usuários uma ferramenta prática e eficiente para:
-- Detectar problemas no sistema operacional;
-- Sugerir ajustes e correções automáticas ou manuais;
-- Melhorar a performance geral do computador;
-- Reduzir falhas e travamentos.
+Um aplicativo que irá servir para:
+- Identificar e apresentar informações sobre os principais componentes de hardware do computador;
+- Exibir estimativas de vida útil e estado geral dos componentes analisados;
+- Explicar a função e a importância de cada componente para o desempenho do sistema;
+- Sugerir recomendações que auxiliem na melhoria da performance e no uso adequado da máquina.
 
 ---
 
 ## 💡 Por que este projeto é importante?
-Computadores com **lentidão** e **má otimização** são problemas frequentes para usuários domésticos e corporativos.  
-Nosso aplicativo realiza uma **varredura detalhada** no sistema, detectando possíveis falhas e apresentando soluções para:
-- Aumentar a velocidade do sistema;
-- Melhorar a estabilidade;
-- Prolongar a vida útil do hardware e software.
+Muitos usuários utilizam computadores diariamente sem conhecer o estado ou a importância dos componentes de hardware presentes na máquina. A falta dessas informações pode dificultar a identificação de limitações de desempenho e o entendimento sobre quando realizar manutenção ou melhorias no equipamento.
+
+Nosso aplicativo gera um **relatório detalhado do hardware**, apresentando informações sobre os componentes analisados, sua função no sistema e estimativas de vida útil. Além disso, o sistema oferece recomendações que auxiliam o usuário a utilizar melhor o computador e a melhorar sua performance geral.
 
 ---
 
