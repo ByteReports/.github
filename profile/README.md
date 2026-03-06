@@ -1,4 +1,4 @@
-# EvoSystem - Sistema de Diagnóstico e Otimização de PCs
+# EvoSystem - Sistema de Relatórios de Componentes
 
 ## 📋 Sobre o Projeto
 Com o aumento do uso de computadores para trabalho, estudos e lazer, compreender o funcionamento dos componentes de hardware tornou-se essencial para garantir bom desempenho e maior durabilidade das máquinas. No entanto, muitos usuários utilizam seus computadores sem conhecer o papel de cada componente ou a importância deles para o funcionamento do sistema.
