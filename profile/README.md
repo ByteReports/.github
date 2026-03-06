@@ -34,11 +34,11 @@ Nosso aplicativo gera um **relatório detalhado do hardware**, apresentando info
 ## 👥 Equipe de Desenvolvimento
 | Nome | Função |
 |------|--------|
-| **Aleff Matheus** | Back-end / Infra |
-| **Bruno Monteiro** | Documentação / Desenvolvedor Front-end |
-| **Guilherme Miranda Cavalcante** | Desenvolvedor Full Stack / Gerente de Projetos |
-| **José Waldo Neto** | Desenvolvedor Back-end / Testes |
-| **Luiz Felipe Santos** | Desenvolvedor Front-end / Testes |
+| **Aleff Matheus** | Time de Desenvolvimento |
+| **Bruno Monteiro** | Arquiteto de Software |
+| **Guilherme Miranda Cavalcante** | Scrum Master |
+| **José Waldo Neto** | Administrador de Banco de Dados |
+| **Luiz Felipe Santos** | Product Owner |
 
 ---
 
