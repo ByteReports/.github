@@ -12,7 +12,7 @@ Diante disso, este projeto propõe o desenvolvimento de um aplicativo desktop vo
 ## 🚀 Objetivos
 ## Objetivo Geral:
 	
-Desenvolver um aplicativo desktop capaz de gerar relatórios sobre os componentes do computador
+Desenvolver um aplicativo desktop capaz de gerar relatórios sobre os componentes do computador.
 
 ## Objetivos Específicos
 
