@@ -46,7 +46,7 @@ Nosso aplicativo gera um **relatório detalhado do hardware**, apresentando info
 
 ### 🔧 Controle de Código e Versionamento
 - **GitHub** – Utilizado para hospedagem do código-fonte e controle de versões.
-- (https://github.com/orgs/Evo-System/repositories)
+- https://github.com/orgs/ByteReports/repositories
 
 ### 🗓️ Planejamento e Acompanhamento
 - **GitHub Projects** – Usado para gerenciar tarefas, acompanhar o progresso e organizar o fluxo de trabalho.
