@@ -57,22 +57,7 @@ Nosso aplicativo gera um **relatório detalhado do hardware**, apresentando info
 
 ### 📝 Documentação do Projeto
 - **Documentação** – Reúne informações sobre arquitetura, funcionalidades e requisitos do sistema.
-- (https://docs.google.com/document/d/16WbK3WD7hhQQaWv8smhe4gcTxr6Ynm67/edit?usp=sharing&ouid=111441773678961149686&rtpof=true&sd=true)
-
-### ✅ Relatório de Testes
-- Relatório de Testes – Apresenta os resultados dos testes realizados, incluindo casos de teste executados, bugs encontrados e a verificação do atendimento aos requisitos.
-- (https://docs.google.com/document/d/1D0ySge9Dcs09s8kLd5HVUwoUFgTNyvMOftKPp2lk1GU/edit?usp=sharing)
-### 📋 Requisitos
-- **Requisitos** - Reúne os principais requisitos do sistema identificados pela pesquisa.
-- (https://docs.google.com/document/d/1bH9JkM_ryMxuCrsFQqCuXyoZZO82tZLH2WXXmt9l4BY/edit?usp=sharing)
-
-### 📊 Formulário de Pesquisa
-- **Google Forms** – Ferramenta utilizada para coleta de dados e feedback dos usuários.
-- (https://forms.gle/67ihd1JQHLizUfPM8)
-
-### 📑 Relatório Final
-- Reúne os principais pontos tratados durante o projeto.
-- (https://docs.google.com/document/d/1NCfGhEySIeQEh4yb6Oq0eyVoRM_7l4CtFEPG-5lJBGU/edit?usp=sharing)
+- ([Google Drive](https://drive.google.com/drive/folders/1LzyegHamSeJtWEMafjXa25iBtnzVQaQl?usp=drive_link))
   
 ---
 
