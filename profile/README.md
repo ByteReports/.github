@@ -57,7 +57,7 @@ Nosso aplicativo gera um **relatório detalhado do hardware**, apresentando info
 
 ### 📝 Documentação do Projeto
 - **Documentação** – Reúne informações sobre arquitetura, funcionalidades e requisitos do sistema.
-- ([Google Drive](https://drive.google.com/drive/folders/1LzyegHamSeJtWEMafjXa25iBtnzVQaQl?usp=drive_link))
+- [Google Drive](https://drive.google.com/drive/folders/1LzyegHamSeJtWEMafjXa25iBtnzVQaQl?usp=drive_link)
   
 ---
 
