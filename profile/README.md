@@ -184,7 +184,8 @@ ByteReports/repositories
 │       └── main.jsx
 │
 └── ByteReports-documentos/     # Repositório que contém todos os documentos do projeto
-    └── Relatorios de sprint/
+    ├── Relatorios de sprint/
+    └── Prints de tela/
 ```
 
 ---
