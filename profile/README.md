@@ -1,65 +1,101 @@
-# ByteReports - Sistema de Relatórios de Componentes
+# ByteReports
 
-## 📋 Sobre o Projeto
-Com o aumento do uso de computadores para trabalho, estudos e lazer, compreender o funcionamento dos componentes de hardware tornou-se essencial para garantir bom desempenho e maior durabilidade das máquinas. No entanto, muitos usuários utilizam seus computadores sem conhecer o papel de cada componente ou a importância deles para o funcionamento do sistema.
+> Aplicativo desktop para diagnóstico de hardware Windows — simples, didático e 100% local.
 
-A falta dessas informações dificulta a identificação de possíveis gargalos de desempenho e impede que o usuário saiba quando realizar melhorias ou manutenções no equipamento. Além disso, muitos não possuem acesso a explicações claras sobre como cada componente influencia na performance geral do computador.
-
-Diante disso, este projeto propõe o desenvolvimento de um aplicativo desktop voltado para a geração de relatórios informativos sobre o hardware do computador. O sistema apresentará estimativas de vida útil dos componentes, recomendações para melhoria de desempenho e explicações sobre a função e importância de cada peça analisada.
-
----
-
-## 🚀 Objetivos
-## Objetivo Geral:
-	
-Desenvolver um aplicativo desktop capaz de gerar relatórios sobre os componentes do computador.
-
-## Objetivos Específicos
-
-Um aplicativo que irá servir para:
-- Identificar e apresentar informações sobre os principais componentes de hardware do computador;
-- Exibir estimativas de vida útil e estado geral dos componentes analisados;
-- Explicar a função e a importância de cada componente para o desempenho do sistema;
-- Sugerir recomendações que auxiliem na melhoria da performance e no uso adequado da máquina.
+[![Plataforma](https://img.shields.io/badge/Plataforma-Windows%2010%2F11-blue)](https://github.com/ByteReports)
+[![Linguagem Backend](https://img.shields.io/badge/Backend-Python-yellow)](https://github.com/ByteReports)
+[![Linguagem Frontend](https://img.shields.io/badge/Frontend-React-61DAFB)](https://github.com/ByteReports)
+[![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-orange)](https://github.com/ByteReports)
 
 ---
 
-## 💡 Por que este projeto é importante?
-Muitos usuários utilizam computadores diariamente sem conhecer o estado ou a importância dos componentes de hardware presentes na máquina. A falta dessas informações pode dificultar a identificação de limitações de desempenho e o entendimento sobre quando realizar manutenção ou melhorias no equipamento.
+## Sumário
 
-Nosso aplicativo gera um **relatório detalhado do hardware**, apresentando informações sobre os componentes analisados, sua função no sistema e estimativas de vida útil. Além disso, o sistema oferece recomendações que auxiliam o usuário a utilizar melhor o computador e a melhorar sua performance geral.
-
----
-
-## 👥 Equipe de Desenvolvimento
-| Nome | Função |
-|------|--------|
-| **Aleff Matheus** | Time de Desenvolvimento |
-| **Bruno Monteiro** | Arquiteto de Software |
-| **Guilherme Miranda Cavalcante** | Scrum Master |
-| **José Waldo Neto** | Administrador de Banco de Dados |
-| **Luiz Felipe Santos** | Product Owner |
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Equipe](#equipe)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Arquitetura](#arquitetura)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Requisitos do Sistema](#requisitos-do-sistema)
+- [Roadmap](#roadmap)
 
 ---
 
-## 🧰 Organização e Ferramentas Utilizadas
+## Sobre o Projeto
 
-### 🔧 Controle de Código e Versionamento
-- **GitHub** – Utilizado para hospedagem do código-fonte e controle de versões.
-- https://github.com/orgs/ByteReports/repositories
+O **ByteReports** é um aplicativo desktop para Windows que realiza varreduras e diagnósticos nos principais componentes de hardware do computador, gerando relatórios claros e acessíveis voltados para usuários com pouco conhecimento técnico.
 
-### 🗓️ Planejamento e Acompanhamento
-- **GitHub Projects** – Usado para gerenciar tarefas, acompanhar o progresso e organizar o fluxo de trabalho.
-- https://github.com/orgs/ByteReports/projects
+### Problema que resolve
 
-### 💻 Desenvolvimento
-- **Visual Studio 2022** – Ambiente principal de desenvolvimento, com suporte a extensões e integração com Git.
+Com base na pesquisa realizada pela equipe, **27% dos usuários de Windows** se consideram com conhecimento avançado para realizar correções em seus próprios computadores. Os softwares de diagnóstico disponíveis no mercado são ou excessivamente técnicos ou muito limitados. O ByteReports preenche essa lacuna traduzindo dados brutos de hardware em linguagem acessível para usuários com pouco conhecimento técnico, com recomendações práticas passo a passo.
 
-### 📝 Documentação do Projeto
-- **Documentação** – Reúne informações sobre arquitetura, funcionalidades e requisitos do sistema.
-- [Google Drive](https://drive.google.com/drive/folders/1LzyegHamSeJtWEMafjXa25iBtnzVQaQl?usp=drive_link)
-  
+### Diferenciais
+
+| Atributo | Ferramentas tradicionais | ByteReports |
+|---|---|---|
+| Formato do dado | Valores brutos e métricas técnicas | Prescrições explicativas em linguagem simples |
+| Dificuldade de uso | Requer conhecimento prévio | Nível iniciante a intermediário |
+| Ação sugerida | Frequentemente inexistente | Recomendações passo a passo |
+| Foco do relatório | Identificação de peças | Saúde, qualidade e melhoria |
+| Privacidade | Variável | 100% local — nenhum dado é enviado para a internet |
+
 ---
 
-## 📍 Status do Projeto
-🚧 **Em desenvolvimento** 🚧
+## Equipe
+
+Projeto desenvolvido no **1º semestre de 2026** durante a matéria de **Projeto Integrador III** do curso de Ciência da Computação do **UniCEUB — Asa Norte**, Brasília.
+
+| Nome | Papel | Contato |
+|---|---|---|
+| Luiz Felipe Santos de Abreu | Product Owner · Frontend · Backend | github.com/OGUTAO |
+| Guilherme Miranda Cavalcante | Scrum Master · Frontend · Backend | github.com/M1r40107 |
+| José Waldo Saraiva Câmara Neto | Documentação · Backend | github.com/josewaldoneto |
+| Bruno Monteiro Fonseca | Arquitetura de software · Backend · Frontend | github.com/BrunoMont18 |
+
+
+**Orientação acadêmica:**
+- Professora orientadora: Kadidja Valéria Reginaldo de Oliveira
+- Stakeholder: Cleber Machado Ortiz
+
+---
+
+## Funcionalidades
+
+### Análise de Hardware
+- Varredura automática de CPU, RAM, armazenamento (HD/SSD/NVMe) e placa de vídeo
+- Exibição gráfica de uso atual e capacidade dos componentes
+- Identificação de nome comercial das peças
+
+### Relatórios e Diagnósticos
+- Classificação de severidade em três níveis com código de cores:
+  - 🟢 **Saudável** — componente operando normalmente
+  - 🟡 **Atenção** — situação que requer cuidado
+  - 🔴 **Crítico** — problema que exige ação imediata
+- Alerta automático quando HD/SSD possui menos de 10% de espaço livre
+
+### Acessibilidade e Educação
+- Textos explicativos sobre a função de cada componente, sem jargões técnicos
+- Tooltips ao passar o mouse sobre siglas como CPU, RAM e SSD
+- Modos claro e escuro
+- Interface com contraste acessível para pessoas com daltonismo
+
+### Exportação
+- Exportação de relatório em **PDF**
+- Exportação de relatório em **TXT**
+- Dois modos de relatório: **Leigo** (linguagem acessível) e **Técnico** (dados detalhados)
+
+### Notebooks
+- Detecção automática de dispositivos portáteis
+- Exibição do percentual da bateria
+
+---
+
+## Tecnologias Utilizadas
+
+### Backend
+- **Python** — lógica de negócio, coleta de dados e geração de relatórios
+- **WMI (Windows Management Instrumentation)** — fonte primária de dados de hardware
+
+### Frontend
+... (126 linhas)
